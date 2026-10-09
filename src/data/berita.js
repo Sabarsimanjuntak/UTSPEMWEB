@@ -36,4 +36,34 @@ export const daftarBerita = [
     ],
     gambar: "/mpls-2026.png",
   },
+  {
+    slug: "prestasi-siswa-ajang-sains",
+    judul: "Prestasi Siswa di Ajang Sains",
+    tanggal: "Tanggal tidak dicantumkan di beranda resmi",
+    ringkasan: "Siswa meraih penghargaan dalam kompetisi sains tingkat nasional.",
+    isi: [
+      "Berita ini mencatat penghargaan yang diraih siswa dalam kompetisi sains tingkat nasional. Capaian tersebut menjadi bagian dari pengalaman siswa dalam bidang sains.",
+    ],
+    gambar: "/berita-placeholder.svg",
+  },
+  {
+    slug: "pekan-seni-dan-budaya",
+    judul: "Pekan Seni dan Budaya",
+    tanggal: "Tanggal tidak dicantumkan di beranda resmi",
+    ringkasan: "Perayaan kreativitas melalui musik, teater, dan pameran karya.",
+    isi: [
+      "Pekan Seni dan Budaya merayakan kreativitas melalui musik, teater, dan pameran karya. Beragam bentuk ekspresi tersebut menjadi bagian dari kegiatan seni dan budaya di sekolah.",
+    ],
+    gambar: "/berita-placeholder.svg",
+  },
+  {
+    slug: "open-house",
+    judul: "Open House",
+    tanggal: "27 Mei (tahun tidak dicantumkan)",
+    ringkasan: "Agenda Open House tercantum di kalender sekolah sebagai kegiatan sepanjang hari.",
+    isi: [
+      "Agenda Open House tercantum di kalender sekolah sebagai kegiatan sepanjang hari. Informasi ini mengikuti keterangan yang tersedia pada kalender sekolah.",
+    ],
+    gambar: "/berita-placeholder.svg",
+  },
 ];
