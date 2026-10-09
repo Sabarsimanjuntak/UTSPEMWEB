@@ -33,17 +33,40 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="mx-auto max-w-3xl px-5 py-12 sm:px-8 md:py-16">
-        <p className="mb-2 text-xs font-bold uppercase tracking-widest text-[var(--brand-blue)]">Sambutan</p>
-        <h2 className="text-3xl font-black leading-tight text-[var(--brand-navy)] sm:text-4xl">
-          Selamat Datang di SMA Negeri 1 Balige
+      <section className="mx-auto max-w-screen-xl px-5 py-12 sm:px-8 md:py-16">
+        <p className="mb-2 text-xs font-bold uppercase tracking-widest text-[var(--brand-blue)]">KATA SAMBUTAN</p>
+        <h2 className="mb-7 text-3xl font-black leading-tight text-[var(--brand-navy)] sm:text-4xl">
+          Sambutan Kepala Sekolah
         </h2>
-        <p className="mt-5 text-base leading-8 text-[var(--muted)]">
-          Selamat datang di website resmi SMA Negeri 1 Balige. Sejak berdiri pada tahun 1950, kami berkomitmen mencetak peserta didik yang berakhlak mulia, berdaya saing dalam IPTEK, berkarakter, dan bermartabat. Melalui website ini, kami berharap informasi kegiatan, prestasi, dan profil sekolah dapat diakses dengan mudah oleh siswa, orang tua, dan masyarakat. Mari bersama-sama mewujudkan The Place Making Big Person.
-        </p>
-        <p className="mt-6 text-left font-bold text-[var(--brand-navy)]">
-          Kepala SMA Negeri 1 Balige
-        </p>
+        <div className="grid items-start gap-8 md:grid-cols-[300px_minmax(0,1fr)] md:gap-10">
+          <div className="relative aspect-[3/4] w-full max-w-[300px] overflow-hidden rounded-md">
+            <Image
+              src="/kepala-sekolah.png"
+              alt="Kepala SMA Negeri 1 Balige"
+              fill
+              sizes="(max-width: 768px) 100vw, 300px"
+              className="object-cover object-top"
+            />
+          </div>
+          <div className="space-y-4 text-base leading-8 text-[var(--muted)]">
+            <p>
+              Puji syukur kita panjatkan kepada Tuhan Yang Maha Esa atas berkat dan penyertaan-Nya sehingga website resmi SMA Negeri 1 Balige ini dapat hadir sebagai sarana informasi bagi seluruh warga sekolah, orang tua, dan masyarakat.
+            </p>
+            <p>
+              SMA Negeri 1 Balige telah berdiri sejak tahun 1950 dan terus berkomitmen mewujudkan peserta didik yang berakhlak mulia, berdaya saing dalam IPTEK, berkarakter, dan bermartabat. Melalui website ini, kami ingin menyajikan informasi kegiatan, prestasi, dan profil sekolah secara terbuka dan mudah diakses.
+            </p>
+            <p>
+              Kepada seluruh siswa, saya berpesan agar terus rajin belajar, menjunjung disiplin, dan menjaga akhlak di mana pun berada. Kepada para guru dan pegawai, terima kasih atas dedikasi dan kerja samanya dalam mendidik generasi penerus bangsa.
+            </p>
+            <p>
+              Mari bersama-sama kita wujudkan SMA Negeri 1 Balige sebagai The Place Making Big Person.
+            </p>
+            <div className="pt-2 text-left text-[var(--brand-navy)]">
+              <p className="font-bold">Aldon Samosir, S.Pd.</p>
+              <p>Kepala Sekolah</p>
+            </div>
+          </div>
+        </div>
       </section>
 
       <section className="mx-auto grid max-w-screen-xl gap-5 border-b border-slate-200 px-5 py-12 sm:px-8 md:grid-cols-[1fr_2fr] md:py-16">
