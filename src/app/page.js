@@ -33,6 +33,19 @@ export default function Home() {
         </div>
       </section>
 
+      <section className="mx-auto max-w-3xl px-5 py-12 sm:px-8 md:py-16">
+        <p className="mb-2 text-xs font-bold uppercase tracking-widest text-[var(--brand-blue)]">Sambutan</p>
+        <h2 className="text-3xl font-black leading-tight text-[var(--brand-navy)] sm:text-4xl">
+          Selamat Datang di SMA Negeri 1 Balige
+        </h2>
+        <p className="mt-5 text-base leading-8 text-[var(--muted)]">
+          Selamat datang di website resmi SMA Negeri 1 Balige. Sejak berdiri pada tahun 1950, kami berkomitmen mencetak peserta didik yang berakhlak mulia, berdaya saing dalam IPTEK, berkarakter, dan bermartabat. Melalui website ini, kami berharap informasi kegiatan, prestasi, dan profil sekolah dapat diakses dengan mudah oleh siswa, orang tua, dan masyarakat. Mari bersama-sama mewujudkan The Place Making Big Person.
+        </p>
+        <p className="mt-6 text-left font-bold text-[var(--brand-navy)]">
+          Kepala SMA Negeri 1 Balige
+        </p>
+      </section>
+
       <section className="mx-auto grid max-w-screen-xl gap-5 border-b border-slate-200 px-5 py-12 sm:px-8 md:grid-cols-[1fr_2fr] md:py-16">
         <div>
           <p className="text-xs font-bold uppercase tracking-widest text-[var(--brand-blue)]">Profil Sekolah</p>
