@@ -1,0 +1,25 @@
+export const sekolah = {
+  nama: "SMAN 1 Balige",
+  tagline: "The Place Making Big Person",
+  alamat: "Jl. Kartini Soposurung, Balige",
+  telepon: "0632 21082",
+  email: "smansa_balige@yahoo.com",
+  tahunBerdiri: "",
+  deskripsi: "Tempat belajar dengan tujuan. Membangun Masa Depan Berani Bersama.",
+  profil: "SMAN 1 Balige berada di Jl. Kartini Soposurung, Balige. Semangat sekolah yang ditampilkan pada situs resminya adalah membangun masa depan berani bersama.",
+  sejarah: [
+    "SMA Negeri 1 Balige didirikan pada tanggal 27 Juli 1950 dan dikepalai oleh Bapak Guru Albinus Simanjuntak dari tahun 1950 s/d 1952. Pada awal berdirinya hingga sekarang, SMA Negeri 1 Balige terletak pada lahan yang sangat strategis dengan luas 22.336 m², terbagi pada dua lokasi. Lokasi pertama adalah tempat gedung berdiri sebagai tempat belajar mengajar dengan luas 11.759 m², dan lokasi kedua berada di seberang jalan raya yang dipakai sebagai lapangan bola voli dan basket dengan luas 10.567 m². Awalnya bangunannya sangat sederhana, yaitu semi permanen. Namun sebagai satu-satunya SMA berstatus negeri pada masa itu, kepedulian pemerintah dalam memperbaiki sarana dan prasarana sangat mantap.",
+    "Di tengah menjamurnya sekolah dan pentingnya dunia pendidikan, SMA Negeri 1 Balige tetap berdiri kokoh dan megah di tengah bangunan sekolah yang semakin banyak. Sejak berdiri hingga saat ini, sekolah ini telah banyak menetaskan SDM, pemikir, dan pemrakarsa pembangunan di negeri tercinta ini. Oleh sebab itulah pelayanan mutu dan kepedulian terhadap generasi muda menjadi cita-cita sekolah ini. Sampai saat ini SMAN 1 Balige masih tetap eksis berada di Jl. Kartini Soposurung, Desa Hinalang Bagasan, Kecamatan Balige, Kabupaten Toba Samosir. Perjalanan panjang yang telah dilalui sejak awal berdirinya hingga sekarang membuat SMAN 1 Balige menjadi sekolah yang matang dan menunjukkan kedewasaannya dalam segala hal.",
+    "Kematangan dan kedewasaan yang dimiliki SMAN 1 Balige membuat sekolah ini mampu dan eksis menetaskan siswa-siswi yang menjadi orang penting, sukses, dan berguna di tengah masyarakat, negara, bangsa, dan agama.",
+    "Segudang prestasi telah diukir siswa-siswi SMA Negeri 1 Balige. Terhitung sejak berdiri, sangat banyak pencapaian yang berhasil diraih, mulai dari tingkat daerah, kabupaten, provinsi, hingga nasional. Yang terbaru, Natanael Jansudin Siregar, siswa asal SMAN 1 Balige, berhasil merebut juara 1 kompetisi Statistical Programming menggunakan bahasa Python pada 28 Januari 2020.",
+    "Untuk tahun pelajaran 2019/2020, SMAN 1 Balige sangat bergembira karena 40 siswa kelas 12 dinyatakan lulus SNMPTN.",
+  ],
+  visi: "Terwujudnya Peserta Didik yang Berakhlak Mulia, Berdaya Saing dalam IPTEK, Berkarakter dan Bermartabat.",
+  pengantarMisi: "Untuk mewujudkan visi tersebut, sekolah menjalankan misi pengembangan peserta didik yang mencakup:",
+  misi: [
+    "Membangun karakter dan akhlak mulia peserta didik berlandaskan nilai-nilai keimanan dan ketaqwaan kepada Tuhan Yang Maha Esa.",
+    "Meningkatkan daya saing dalam bidang Ilmu Pengetahuan dan Teknologi (IPTEK) serta prestasi akademik maupun non-akademik.",
+    "Mengembangkan nilai-nilai budaya lokal, kearifan daerah, serta identitas yang kuat.",
+    "Menyiapkan lingkungan belajar yang ramah, mendukung pariwisata, serta peduli terhadap kelestarian lingkungan dan pembangunan berkelanjutan.",
+  ],
+};
