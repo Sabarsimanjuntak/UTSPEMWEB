@@ -37,14 +37,16 @@ export const daftarBerita = [
     gambar: "/mpls-2026.png",
   },
   {
-    slug: "prestasi-siswa-ajang-sains",
-    judul: "Prestasi Siswa di Ajang Sains",
-    tanggal: "Tanggal tidak dicantumkan di beranda resmi",
-    ringkasan: "Siswa meraih penghargaan dalam kompetisi sains tingkat nasional.",
+    slug: "perayaan-hari-guru-nasional-sman-1-balige",
+    judul: "Perayaan Hari Guru Nasional di SMAN 1 Balige",
+    tanggal: "25 November 2025",
+    ringkasan: "Perayaan Hari Guru Nasional yang diikuti para guru dan pegawai SMAN 1 Balige.",
     isi: [
-      "Berita ini mencatat penghargaan yang diraih siswa dalam kompetisi sains tingkat nasional. Capaian tersebut menjadi bagian dari pengalaman siswa dalam bidang sains.",
+      "SMA Negeri 1 Balige memperingati Hari Guru Nasional pada 25 November 2025. Para guru dan pegawai hadir mengenakan pakaian seragam dan kain tenun khas daerah, berkumpul di halaman sekolah untuk mengikuti rangkaian perayaan dengan penuh sukacita.",
+      "Dalam kegiatan tersebut, dilakukan acara pemotongan kue sebagai simbol rasa syukur dan kebersamaan. Suasana perayaan berlangsung hangat dan akrab, dihiasi bunga serta balon warna-warni yang menambah semarak acara.",
+      "Hari Guru Nasional menjadi momentum untuk menghargai dedikasi para guru dalam mendidik dan membimbing siswa. Semoga semangat pengabdian para guru SMAN 1 Balige terus terjaga demi kemajuan pendidikan dan generasi penerus bangsa.",
     ],
-    gambar: "/berita-placeholder.svg",
+    gambar: "/hari-guru-2025.png",
   },
   {
     slug: "pekan-seni-dan-budaya",
