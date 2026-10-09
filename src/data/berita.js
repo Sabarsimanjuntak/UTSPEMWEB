@@ -61,13 +61,15 @@ export const daftarBerita = [
     gambar: "/natal-2026.png",
   },
   {
-    slug: "open-house",
-    judul: "Open House",
-    tanggal: "27 Mei (tahun tidak dicantumkan)",
-    ringkasan: "Agenda Open House tercantum di kalender sekolah sebagai kegiatan sepanjang hari.",
+    slug: "lomba-cerdas-cermat-kelas-x",
+    judul: "Lomba Cerdas Cermat Kelas X",
+    tanggal: "28 Oktober 2025",
+    ringkasan: "Lomba Cerdas Cermat antar siswa kelas X SMA Negeri 1 Balige.",
     isi: [
-      "Agenda Open House tercantum di kalender sekolah sebagai kegiatan sepanjang hari. Informasi ini mengikuti keterangan yang tersedia pada kalender sekolah.",
+      "SMA Negeri 1 Balige menyelenggarakan Lomba Cerdas Cermat bagi siswa kelas X pada 28 Oktober 2025. Kegiatan ini diikuti oleh para siswa yang tampil penuh semangat untuk menunjukkan kemampuan dan pengetahuan mereka.",
+      "Lomba berlangsung seru dan kompetitif, dengan dukungan dari para guru dan teman-teman yang menyaksikan. Para peserta berusaha menjawab pertanyaan dengan cepat dan tepat, sementara para pemenang menerima piala sebagai bentuk penghargaan atas prestasi mereka.",
+      "Melalui kegiatan ini, siswa diharapkan semakin termotivasi untuk belajar, berani tampil, dan mengembangkan semangat sportivitas. Semoga kegiatan serupa terus diadakan untuk mendorong prestasi siswa SMA Negeri 1 Balige.",
     ],
-    gambar: "/berita-placeholder.svg",
+    gambar: "/cerdas-cermat-2025.png",
   },
 ];
