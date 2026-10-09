@@ -49,14 +49,16 @@ export const daftarBerita = [
     gambar: "/hari-guru-2025.png",
   },
   {
-    slug: "pekan-seni-dan-budaya",
-    judul: "Pekan Seni dan Budaya",
-    tanggal: "Tanggal tidak dicantumkan di beranda resmi",
-    ringkasan: "Perayaan kreativitas melalui musik, teater, dan pameran karya.",
+    slug: "perayaan-natal-sma-negeri-1-balige",
+    judul: "Perayaan Natal SMA Negeri 1 Balige",
+    tanggal: "16 Desember 2026",
+    ringkasan: "Perayaan Natal bersama keluarga besar SMA Negeri 1 Balige.",
     isi: [
-      "Pekan Seni dan Budaya merayakan kreativitas melalui musik, teater, dan pameran karya. Beragam bentuk ekspresi tersebut menjadi bagian dari kegiatan seni dan budaya di sekolah.",
+      "SMA Negeri 1 Balige melaksanakan perayaan Natal bersama pada 16 Desember 2026. Kegiatan ini diikuti oleh para guru, pegawai, dan siswa dalam suasana ibadah yang khidmat, dengan pohon Natal, lilin, dan hiasan yang menambah kehangatan acara.",
+      "Rangkaian perayaan dipimpin oleh para pelayan ibadah dan diisi dengan doa, pembacaan firman, serta penyalaan lilin sebagai simbol terang dan pengharapan. Seluruh peserta mengikuti kegiatan dengan penuh sukacita dan kebersamaan.",
+      "Perayaan Natal ini menjadi momentum untuk mempererat persaudaraan dan menumbuhkan semangat saling mengasihi di lingkungan sekolah. Semoga damai Natal membawa berkat bagi seluruh keluarga besar SMA Negeri 1 Balige.",
     ],
-    gambar: "/berita-placeholder.svg",
+    gambar: "/natal-2026.png",
   },
   {
     slug: "open-house",
